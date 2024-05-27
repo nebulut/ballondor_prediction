@@ -1,0 +1,513 @@
+LG_Playing Time_MP
+LG_Playing Time_Starts
+LG_Playing Time_Min
+LG_Playing Time_90s
+LG_Performance_Gls
+LG_Performance_Ast
+LG_Performance_G+A
+LG_Performance_G-PK
+LG_Performance_PK
+LG_Performance_PKatt
+LG_Performance_CrdY
+LG_Performance_CrdR
+LG_Per 90 Minutes_Gls
+LG_Per 90 Minutes_Ast
+LG_Per 90 Minutes_G+A
+LG_Per 90 Minutes_G-PK
+LG_Per 90 Minutes_G+A-PK
+LG_90s
+LG_Standard_Gls
+LG_Standard_Sh
+LG_Standard_SoT
+LG_Standard_SoT%
+LG_Standard_Sh/90
+LG_Standard_SoT/90
+LG_Standard_G/Sh
+LG_Standard_G/SoT
+LG_Standard_Dist
+LG_Standard_PK
+LG_Standard_PKatt
+LG_Total_Cmp
+LG_Total_Att
+LG_Total_Cmp%
+LG_Total_TotDist
+LG_Total_PrgDist
+LG_Short_Cmp
+LG_Short_Att
+LG_Short_Cmp%
+LG_Medium_Cmp
+LG_Medium_Att
+LG_Medium_Cmp%
+LG_Long_Cmp
+LG_Long_Att
+LG_Long_Cmp%
+LG_Ast
+LG_KP
+LG_1/3
+LG_PPA
+LG_CrsPA
+LG_Att
+LG_Pass Types_Live
+LG_Pass Types_Dead
+LG_Pass Types_FK
+LG_Pass Types_TB
+LG_Pass Types_Sw
+LG_Pass Types_Crs
+LG_Pass Types_TI
+LG_Pass Types_CK
+LG_Corner Kicks_In
+LG_Corner Kicks_Out
+LG_Corner Kicks_Str
+LG_Outcomes_Cmp
+LG_Outcomes_Off
+LG_Outcomes_Blocks
+LG_SCA_SCA
+LG_SCA_SCA90
+LG_SCA Types_PassLive
+LG_SCA Types_PassDead
+LG_SCA Types_TO
+LG_SCA Types_Sh
+LG_SCA Types_Fld
+LG_SCA Types_Def
+LG_GCA_GCA
+LG_GCA_GCA90
+LG_GCA Types_PassLive
+LG_GCA Types_PassDead
+LG_GCA Types_TO
+LG_GCA Types_Sh
+LG_GCA Types_Fld
+LG_GCA Types_Def
+LG_Tackles_Tkl
+LG_Tackles_TklW
+LG_Tackles_Def 3rd
+LG_Tackles_Mid 3rd
+LG_Tackles_Att 3rd
+LG_Challenges_Tkl
+LG_Challenges_Att
+LG_Challenges_Tkl%
+LG_Challenges_Lost
+LG_Blocks_Blocks
+LG_Blocks_Sh
+LG_Blocks_Pass
+LG_Int
+LG_Tkl+Int
+LG_Clr
+LG_Err
+LG_Touches_Touches
+LG_Touches_Def Pen
+LG_Touches_Def 3rd
+LG_Touches_Mid 3rd
+LG_Touches_Att 3rd
+LG_Touches_Att Pen
+LG_Touches_Live
+LG_Take-Ons_Att
+LG_Take-Ons_Succ
+LG_Take-Ons_Succ%
+LG_Take-Ons_Tkld
+LG_Take-Ons_Tkld%
+LG_Carries_Carries
+LG_Carries_TotDist
+LG_Carries_PrgDist
+LG_Carries_1/3
+LG_Carries_CPA
+LG_Carries_Mis
+LG_Carries_Dis
+LG_Playing Time_Mn/MP
+LG_Playing Time_Min%
+LG_Starts_Starts
+LG_Starts_Mn/Start
+LG_Starts_Compl
+LG_Subs_Subs
+LG_Subs_Mn/Sub
+LG_Subs_unSub
+LG_Team Success_PPM
+LG_Team Success_onG
+LG_Team Success_onGA
+LG_Team Success_+/-
+LG_Team Success_+/-90
+LG_Team Success_On-Off
+LG_Performance_2CrdY
+LG_Performance_Fls
+LG_Performance_Fld
+LG_Performance_Off
+LG_Performance_Crs
+LG_Performance_Int
+LG_Performance_TklW
+LG_Performance_PKwon
+LG_Performance_PKcon
+LG_Performance_OG
+LG_Rk
+LG_Performance_Recov
+LG_Expected_G-xG
+LG_PrgP
+LG_Per 90 Minutes_xG
+LG_Aerial Duels_Won
+LG_Expected_npxG
+LG_Per 90 Minutes_xAG
+LG_Aerial Duels_Lost
+LG_Receiving_Rec
+LG_Per 90 Minutes_npxG+xAG
+LG_Team Success (xG)_onxG
+LG_Expected_xG
+LG_Receiving_PrgR
+LG_Expected_A-xAG
+LG_Team Success (xG)_xG+/-90
+LG_Carries_PrgC
+LG_Expected_npxG/Sh
+LG_Expected_npxG+xAG
+LG_Standard_FK
+LG_Team Success (xG)_onxGA
+LG_xAG
+LG_Team Success (xG)_On-Off
+LG_Expected_xA
+LG_Aerial Duels_Won%
+LG_Progression_PrgP
+LG_Progression_PrgR
+LG_Expected_xAG
+LG_Per 90 Minutes_xG+xAG
+LG_Expected_np:G-xG
+LG_Per 90 Minutes_npxG
+LG_Team Success (xG)_xG+/-
+LG_Progression_PrgC
+UCL_Playing Time_MP
+UCL_Playing Time_Starts
+UCL_Playing Time_Min
+UCL_Playing Time_90s
+UCL_Performance_Gls
+UCL_Performance_Ast
+UCL_Performance_G+A
+UCL_Performance_G-PK
+UCL_Performance_PK
+UCL_Performance_PKatt
+UCL_Performance_CrdY
+UCL_Performance_CrdR
+UCL_Per 90 Minutes_Gls
+UCL_Per 90 Minutes_Ast
+UCL_Per 90 Minutes_G+A
+UCL_Per 90 Minutes_G-PK
+UCL_Per 90 Minutes_G+A-PK
+UCL_90s
+UCL_Standard_Gls
+UCL_Standard_Sh
+UCL_Standard_SoT
+UCL_Standard_SoT%
+UCL_Standard_Sh/90
+UCL_Standard_SoT/90
+UCL_Standard_G/Sh
+UCL_Standard_G/SoT
+UCL_Standard_Dist
+UCL_Standard_PK
+UCL_Standard_PKatt
+UCL_Total_Cmp
+UCL_Total_Att
+UCL_Total_Cmp%
+UCL_Total_TotDist
+UCL_Total_PrgDist
+UCL_Short_Cmp
+UCL_Short_Att
+UCL_Short_Cmp%
+UCL_Medium_Cmp
+UCL_Medium_Att
+UCL_Medium_Cmp%
+UCL_Long_Cmp
+UCL_Long_Att
+UCL_Long_Cmp%
+UCL_Ast
+UCL_KP
+UCL_1/3
+UCL_PPA
+UCL_CrsPA
+UCL_Att
+UCL_Pass Types_Live
+UCL_Pass Types_Dead
+UCL_Pass Types_FK
+UCL_Pass Types_TB
+UCL_Pass Types_Sw
+UCL_Pass Types_Crs
+UCL_Pass Types_TI
+UCL_Pass Types_CK
+UCL_Corner Kicks_In
+UCL_Corner Kicks_Out
+UCL_Corner Kicks_Str
+UCL_Outcomes_Cmp
+UCL_Outcomes_Off
+UCL_Outcomes_Blocks
+UCL_SCA_SCA
+UCL_SCA_SCA90
+UCL_SCA Types_PassLive
+UCL_SCA Types_PassDead
+UCL_SCA Types_TO
+UCL_SCA Types_Sh
+UCL_SCA Types_Fld
+UCL_SCA Types_Def
+UCL_GCA_GCA
+UCL_GCA_GCA90
+UCL_GCA Types_PassLive
+UCL_GCA Types_PassDead
+UCL_GCA Types_TO
+UCL_GCA Types_Sh
+UCL_GCA Types_Fld
+UCL_GCA Types_Def
+UCL_Tackles_Tkl
+UCL_Tackles_TklW
+UCL_Tackles_Def 3rd
+UCL_Tackles_Mid 3rd
+UCL_Tackles_Att 3rd
+UCL_Challenges_Tkl
+UCL_Challenges_Att
+UCL_Challenges_Tkl%
+UCL_Challenges_Lost
+UCL_Blocks_Blocks
+UCL_Blocks_Sh
+UCL_Blocks_Pass
+UCL_Int
+UCL_Tkl+Int
+UCL_Clr
+UCL_Err
+UCL_Touches_Touches
+UCL_Touches_Def Pen
+UCL_Touches_Def 3rd
+UCL_Touches_Mid 3rd
+UCL_Touches_Att 3rd
+UCL_Touches_Att Pen
+UCL_Touches_Live
+UCL_Take-Ons_Att
+UCL_Take-Ons_Succ
+UCL_Take-Ons_Succ%
+UCL_Take-Ons_Tkld
+UCL_Take-Ons_Tkld%
+UCL_Carries_Carries
+UCL_Carries_TotDist
+UCL_Carries_PrgDist
+UCL_Carries_1/3
+UCL_Carries_CPA
+UCL_Carries_Mis
+UCL_Carries_Dis
+UCL_Playing Time_Mn/MP
+UCL_Playing Time_Min%
+UCL_Starts_Starts
+UCL_Starts_Mn/Start
+UCL_Starts_Compl
+UCL_Subs_Subs
+UCL_Subs_Mn/Sub
+UCL_Subs_unSub
+UCL_Team Success_PPM
+UCL_Team Success_onG
+UCL_Team Success_onGA
+UCL_Team Success_+/-
+UCL_Team Success_+/-90
+UCL_Team Success_On-Off
+UCL_Performance_2CrdY
+UCL_Performance_Fls
+UCL_Performance_Fld
+UCL_Performance_Off
+UCL_Performance_Crs
+UCL_Performance_Int
+UCL_Performance_TklW
+UCL_Performance_PKwon
+UCL_Performance_PKcon
+UCL_Performance_OG
+UCL_Rk
+UCL_Performance_Recov
+UCL_Expected_G-xG
+UCL_PrgP
+UCL_Per 90 Minutes_xG
+UCL_Aerial Duels_Won
+UCL_Expected_npxG
+UCL_Per 90 Minutes_xAG
+UCL_Aerial Duels_Lost
+UCL_Receiving_Rec
+UCL_Per 90 Minutes_npxG+xAG
+UCL_Team Success (xG)_onxG
+UCL_Expected_xG
+UCL_Receiving_PrgR
+UCL_Expected_A-xAG
+UCL_Team Success (xG)_xG+/-90
+UCL_Carries_PrgC
+UCL_Expected_npxG/Sh
+UCL_Expected_npxG+xAG
+UCL_Standard_FK
+UCL_Team Success (xG)_onxGA
+UCL_xAG
+UCL_Team Success (xG)_On-Off
+UCL_Expected_xA
+UCL_Aerial Duels_Won%
+UCL_Progression_PrgP
+UCL_Progression_PrgR
+UCL_Expected_xAG
+UCL_Per 90 Minutes_xG+xAG
+UCL_Expected_np:G-xG
+UCL_Per 90 Minutes_npxG
+UCL_Team Success (xG)_xG+/-
+UCL_Progression_PrgC
+WC_Playing Time_MP
+WC_Playing Time_Starts
+WC_Playing Time_Min
+WC_Playing Time_90s
+WC_Performance_Gls
+WC_Performance_Ast
+WC_Performance_G+A
+WC_Performance_G-PK
+WC_Performance_PK
+WC_Performance_PKatt
+WC_Performance_CrdY
+WC_Performance_CrdR
+WC_Per 90 Minutes_Gls
+WC_Per 90 Minutes_Ast
+WC_Per 90 Minutes_G+A
+WC_Per 90 Minutes_G-PK
+WC_Per 90 Minutes_G+A-PK
+WC_90s
+WC_Standard_Gls
+WC_Standard_Sh
+WC_Standard_SoT
+WC_Standard_SoT%
+WC_Standard_Sh/90
+WC_Standard_SoT/90
+WC_Standard_G/Sh
+WC_Standard_G/SoT
+WC_Standard_Dist
+WC_Standard_PK
+WC_Standard_PKatt
+WC_Total_Cmp
+WC_Total_Att
+WC_Total_Cmp%
+WC_Total_TotDist
+WC_Total_PrgDist
+WC_Short_Cmp
+WC_Short_Att
+WC_Short_Cmp%
+WC_Medium_Cmp
+WC_Medium_Att
+WC_Medium_Cmp%
+WC_Long_Cmp
+WC_Long_Att
+WC_Long_Cmp%
+WC_Ast
+WC_KP
+WC_1/3
+WC_PPA
+WC_CrsPA
+WC_Att
+WC_Pass Types_Live
+WC_Pass Types_Dead
+WC_Pass Types_FK
+WC_Pass Types_TB
+WC_Pass Types_Sw
+WC_Pass Types_Crs
+WC_Pass Types_TI
+WC_Pass Types_CK
+WC_Corner Kicks_In
+WC_Corner Kicks_Out
+WC_Corner Kicks_Str
+WC_Outcomes_Cmp
+WC_Outcomes_Off
+WC_Outcomes_Blocks
+WC_SCA_SCA
+WC_SCA_SCA90
+WC_SCA Types_PassLive
+WC_SCA Types_PassDead
+WC_SCA Types_TO
+WC_SCA Types_Sh
+WC_SCA Types_Fld
+WC_SCA Types_Def
+WC_GCA_GCA
+WC_GCA_GCA90
+WC_GCA Types_PassLive
+WC_GCA Types_PassDead
+WC_GCA Types_TO
+WC_GCA Types_Sh
+WC_GCA Types_Fld
+WC_GCA Types_Def
+WC_Tackles_Tkl
+WC_Tackles_TklW
+WC_Tackles_Def 3rd
+WC_Tackles_Mid 3rd
+WC_Tackles_Att 3rd
+WC_Challenges_Tkl
+WC_Challenges_Att
+WC_Challenges_Tkl%
+WC_Challenges_Lost
+WC_Blocks_Blocks
+WC_Blocks_Sh
+WC_Blocks_Pass
+WC_Int
+WC_Tkl+Int
+WC_Clr
+WC_Err
+WC_Touches_Touches
+WC_Touches_Def Pen
+WC_Touches_Def 3rd
+WC_Touches_Mid 3rd
+WC_Touches_Att 3rd
+WC_Touches_Att Pen
+WC_Touches_Live
+WC_Take-Ons_Att
+WC_Take-Ons_Succ
+WC_Take-Ons_Succ%
+WC_Take-Ons_Tkld
+WC_Take-Ons_Tkld%
+WC_Carries_Carries
+WC_Carries_TotDist
+WC_Carries_PrgDist
+WC_Carries_1/3
+WC_Carries_CPA
+WC_Carries_Mis
+WC_Carries_Dis
+WC_Playing Time_Mn/MP
+WC_Playing Time_Min%
+WC_Starts_Starts
+WC_Starts_Mn/Start
+WC_Starts_Compl
+WC_Subs_Subs
+WC_Subs_Mn/Sub
+WC_Subs_unSub
+WC_Team Success_PPM
+WC_Team Success_onG
+WC_Team Success_onGA
+WC_Team Success_+/-
+WC_Team Success_+/-90
+WC_Team Success_On-Off
+WC_Performance_2CrdY
+WC_Performance_Fls
+WC_Performance_Fld
+WC_Performance_Off
+WC_Performance_Crs
+WC_Performance_Int
+WC_Performance_TklW
+WC_Performance_PKwon
+WC_Performance_PKcon
+WC_Performance_OG
+WC_Rk
+WC_Performance_Recov
+WC_Expected_G-xG
+WC_PrgP
+WC_Per 90 Minutes_xG
+WC_Aerial Duels_Won
+WC_Expected_npxG
+WC_Per 90 Minutes_xAG
+WC_Aerial Duels_Lost
+WC_Receiving_Rec
+WC_Per 90 Minutes_npxG+xAG
+WC_Team Success (xG)_onxG
+WC_Expected_xG
+WC_Receiving_PrgR
+WC_Expected_A-xAG
+WC_Team Success (xG)_xG+/-90
+WC_Carries_PrgC
+WC_Expected_npxG/Sh
+WC_Expected_npxG+xAG
+WC_Standard_FK
+WC_Team Success (xG)_onxGA
+WC_xAG
+WC_Team Success (xG)_On-Off
+WC_Expected_xA
+WC_Aerial Duels_Won%
+WC_Progression_PrgP
+WC_Progression_PrgR
+WC_Expected_xAG
+WC_Per 90 Minutes_xG+xAG
+WC_Expected_np:G-xG
+WC_Per 90 Minutes_npxG
+WC_Team Success (xG)_xG+/-
+WC_Progression_PrgC
