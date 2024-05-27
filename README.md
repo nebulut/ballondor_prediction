@@ -5,7 +5,9 @@ Obtaining statistics:
 “stats.py” contains the statistics. “functions.py” contains the necessary functions. 
 
 In this github repository https://github.com/probberechts/soccerdata there is a pre-designed web scraper. Using it I get the statistics from the website FBref. Besides “Standard” the following 8 types of statistics are obtained.
+
 ![Categories](https://github.com/nebulut/ballondor_prediction/blob/main/categories.png)
+
 3 main leagues were looked at for statistics. These are: Champions League (UCL), Local Leagues (LG) and World Cup (WC). The World Cup is organized every 4 years and therefore the columns for the years without a World Cup were added manually and all were made “0”. 
 
 I first thought to look at the top 100 players with the highest market value because it is too much data load to analyze all the players, but then I realized that in some seasons (for example: 21-22) a player without a market value in the top 100 was voted the best player. Then I thought to look at the 200 players with the most minutes in the UCL, the Champions League, and every year I looked at this, there were no exceptions and one player from the top 200 won the Ballon d'Or. So I sifted the data a bit more and reduced the processing load. 
