@@ -26,5 +26,9 @@ Two different models were used: Logistic Regression and Random Forest. The dataf
 
 Model Testi: 
 
-Modeller her sezon için test edildi. Her sezon test edilirken model eğitiminde kullanılmamasına dikkat edildi. Örneğin “08-09" sezonu test edilirken “08-09” sezonu eğitimde kullanılmadı. Örneğin iki sezon için sonuçlar şu şekilde “results” adlı klasöre kaydedilmekte: 
-![Random Forest Results 23-24](https://github.com/nebulut/ballondor_prediction/blob/main/rf.png)
+Modeller her sezon için test edildi. Her sezon test edilirken model eğitiminde kullanılmamasına dikkat edildi. Örneğin “08-09" sezonu test edilirken “08-09” sezonu eğitimde kullanılmadı. Örneğin iki sezon için sonuçlar şu şekilde “results” adlı klasöre kaydedilmekte:
+
+![Random Forest Results 23-24](https://github.com/nebulut/ballondor_prediction/blob/main/rf.png) ![Logistic Regression Results 23-24](https://github.com/nebulut/ballondor_prediction/blob/main/lr.png)
+
+The left side gives the results for random forest and the right side for logistic regression. These forecasts are for 23-24, this year's season. 
+
