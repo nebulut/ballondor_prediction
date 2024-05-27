@@ -24,11 +24,27 @@ Model Training:
 
 Two different models were used: Logistic Regression and Random Forest. The dataframes of the normalized seasons are combined before training and the model is trained. 
 
-Model Testi: 
+Model Testing: 
 
-Modeller her sezon için test edildi. Her sezon test edilirken model eğitiminde kullanılmamasına dikkat edildi. Örneğin “08-09" sezonu test edilirken “08-09” sezonu eğitimde kullanılmadı. Örneğin iki sezon için sonuçlar şu şekilde “results” adlı klasöre kaydedilmekte:
+Models were tested for each season. While testing each season, care was taken not to use it in model training. For example, when testing the “08-09” season, the “08-09” season was not used in the training. For example, the results for the two seasons are saved in the folder named “results” as follows:
 
 ![Random Forest Results 23-24](https://github.com/nebulut/ballondor_prediction/blob/main/rf.png) ![Logistic Regression Results 23-24](https://github.com/nebulut/ballondor_prediction/blob/main/lr.png)
 
-The left side gives the results for random forest and the right side for logistic regression. These forecasts are for 23-24, this year's season. 
+The first image gives the results for random forest and the second image for logistic regression. These estimates are for 23-24, this year's season. 
+
+The test results for all seasons were as follows: 
+
+![All Results](https://github.com/nebulut/ballondor_prediction/blob/main/all_results.png)
+
+In the seasons written in red, the models guessed wrong. For this season, both models predicted “Kylian Mbappe”. As this season is not yet over, we don't know if they are correct. Although the model successes are similar, Random Forest predicted one more season wrong.
+
+Steps to make predictions:
+1. Get the stats by entering the desired years at the top of the stats.py file.
+2. Add the target season to the folder named to_predict.
+3. Normalize all seasons by running the file named normalize.py.
+4. To train the model with the normalized seasons, run the train.py file of the desired model and train the model with the normalized seasons.
+5. Enter the season you want to test in the model's test.py file and get the results.
+
+Limitations:
+The stats are usually only numerical and offensive oriented, which can lead to some shortcomings. For example, the winner of the “05-06” season was a defender but the model predicts an attacker. The model could be improved with more data. It could also focus on leagues such as Euro Cup and Copa America. The weights of the leagues can be adjusted.
 
